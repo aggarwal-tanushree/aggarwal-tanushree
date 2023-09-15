@@ -1,6 +1,7 @@
 ## Hi 👋, I am Tanushree :woman_technologist:
 An application support/operations professional, passionate about the Cloud! ☁️
 
+Pronouns: she/her/hers 🧍‍♀️ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
