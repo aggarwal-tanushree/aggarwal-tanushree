@@ -1,7 +1,12 @@
 ## Hi 👋, I am Tanushree :woman_technologist:
 An application support/operations professional, passionate about the Cloud! ☁️
 
-Pronouns: she/her/hers 🧍‍♀️ 
+🧍‍♀️Pronouns: she/her/hers  
+
+🔭 I’m currently working on the [Terraform Cloud Project Bootcamp](https://terraform.cloudprojectbootcamp.com/) being run by Andrew Brown from [Exampro.co](https://app.exampro.co/student/auth/login)
+
+🌱 I’m currently learning Terraform (IaC) and Cloud Security.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
