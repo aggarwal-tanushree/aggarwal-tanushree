@@ -3,10 +3,13 @@ An application support/operations professional, passionate about the Cloud! ☁�
 
 🧍‍♀️Pronouns: she/her/hers  
 
-🔭 I’m currently working on the [Terraform Cloud Project Bootcamp](https://terraform.cloudprojectbootcamp.com/) being run by Andrew Brown from [Exampro.co](https://app.exampro.co/student/auth/login)
 
-🌱 I’m currently learning Terraform (IaC) and Cloud Security.
+🔭 I have recently completed the [Terraform Cloud Project Bootcamp](https://terraform.cloudprojectbootcamp.com/) being run by Andrew Brown from [Exampro.co](https://app.exampro.co/student/auth/login)!
 
+🌱 I now preparing for the **HashiCorp Certified: Terraform Associate (003)** and also learning **Cloud Security**.
+
+### This year I am participating in Hacktoberfest 2023 
+[![An image of @aggarwaltanushree's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aggarwaltanushree)](https://holopin.io/@aggarwaltanushree)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,6 +18,7 @@ An application support/operations professional, passionate about the Cloud! ☁�
 <a href="https://medium.com/@aggarwal.tanushree" target="blank"><img align="center" src="https://github.com/aggarwal-tanushree/aggarwal-tanushree/blob/e94424552018eacc7dd767ac9e416769cf1ca3dc/.github/assets/icons8-medium.svg" alt="@aggarwal.tanushree" height="30" width="40" /></a>
 <a href="https://github.com/aggarwal-tanushree" target="blank"><img align="center" src="https://github.com/aggarwal-tanushree/aggarwal-tanushree/blob/e94424552018eacc7dd767ac9e416769cf1ca3dc/.github/assets/icons8-github.svg" alt="rahul_dk_jain" height="30" width="40" /></a>
 </p>
+
 
 ## My Current Tech Stack
 - AWS
