@@ -33,6 +33,30 @@ An application support/operations professional, passionate about the Cloud! ‚òÅÔ
 
 <table>
         <tr>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--cJ2j40SG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s5ys2rqks4pdh64z6e36.jpg" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/tanushree_aggarwal/linux-3-ways-to-search-patterns-in-files-1do0">Linux: 3 ways to search patterns in files</a>
+                <div>Introduction:   This is the first post in my bite-sized learning series. In this series we...</div>
+                <div><i>22/09/2023</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--bZK4Rz9g--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wsjv69fari6d7snxa0z1.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/aws-builders/aws-partyrock-anyone-can-become-a-developer-2kn5">AWS PartyRock - Anyone can become a developer</a>
+                <div>Building apps is a party with Partyrock!   PartyRock, powered by AI foundation models from...</div>
+                <div><i>16/11/2023</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="100px"><img src="https://github.com/aggarwal-tanushree/aggarwal-tanushree/blob/0b8ee54b1034e0c9d708422a1ebef367d85cd5c4/.github/assets/default-thumbnail.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/aws-builders/scheduling-ec2-start-and-stop-using-eventbridge-and-lambda-part-2-of-2-344">Scheduling EC2 start and stop using Eventbridge and Lambda (part...</a>
+                <div>Introduction   In our previous blog, we discussed the use case and the architecture. The...</div>
+                <div><i>14/09/2023</i></div>
+            </td>
+        </tr>
+        <tr>
             <td width="100px"><img src="https://github.com/aggarwal-tanushree/aggarwal-tanushree/blob/0b8ee54b1034e0c9d708422a1ebef367d85cd5c4/.github/assets/default-thumbnail.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/aws-builders/scheduling-ec2-start-and-stop-using-eventbridge-and-lambda-part-1-of-2-30he">Scheduling EC2 start and stop using Eventbridge and Lambda (part...</a>
