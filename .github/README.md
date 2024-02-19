@@ -6,9 +6,9 @@ An application support/operations professional, passionate about the Cloud! ☁�
 
 🔭 I have recently completed the [Terraform Cloud Project Bootcamp](https://terraform.cloudprojectbootcamp.com/) being run by Andrew Brown from [Exampro.co](https://app.exampro.co/student/auth/login)!
 
-🌱 I am now preparing for the **HashiCorp Certified: Terraform Associate (003)** and also learning **Cloud Security**.
+🌱 I am now preparing for the **HashiCorp Certified: Terraform Associate (003)** and Microsoft Azure Administrator **AZ-104**.
 
-### This year I am participating in Hacktoberfest 2023 
+### Last year I participated in my first ever open-source event - Hacktoberfest 2023 
 [![An image of @aggarwaltanushree's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aggarwaltanushree)](https://holopin.io/@aggarwaltanushree)
 
 <h3 align="left">Connect with me:</h3>
@@ -26,6 +26,8 @@ An application support/operations professional, passionate about the Cloud! ☁�
 - Linux
 - Python
 - Git
+- Azure
+- GCP
 - Docker
 
 ## My Articles on [dev.to](https://dev.to/tanushree_aggarwal) ☁️📖📝
